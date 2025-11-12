@@ -39,7 +39,7 @@ If you pass a subdomain (`mail.example.com` style via `example.com mail`), the s
 ## 📥 Installation
 
 ```bash
-curl -O https://raw.githubusercontent.com/your-org/your-repo/main/check-email-dns.sh
+curl -O https://github.com/i10s/audit-email-dns/blob/main/check-email-dns.sh
 chmod +x check-email-dns.sh
 ./check-email-dns.sh example.com
 ```
