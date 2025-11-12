@@ -137,7 +137,7 @@ Value: v=TLSRPTv1; rua=mailto:tls-reports@example.com
 
 ## 📄 License
 
-MIT (add a `LICENSE` file if distributing publicly).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 Made to quickly audit email readiness across domains and subdomains. Improve deliverability with confidence.
